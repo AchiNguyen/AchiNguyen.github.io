@@ -7,17 +7,21 @@
 
 # Main Page Setup
 
-title: John Doe's Portfolio # This is what shows up in the tab of the browser
+title: Achi Nguyen's Portfolio # This is what shows up in the tab of the browser
 
 
 
 # Hero Section
-name: John Doe
+name: Achi Nguyen
 headline: headline message
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  UBC Chemical Engineering Student
+
+Hi there! I am a Chemical Engineering student at the University of British Columbia. I always have had a passion for engineering and applied technology. I believe that many major problem in the world can all be solved through innovation and ingenuity.
+
+I am based in Vancouver and, in my free time, I am also a soccer player, martial artist, aircraft enthusiast, and a programmer. I find immense joy in playing sports and learning cool stuff. The dual passion for technology and self-improvement allows me to improve better every-day as an engineer.
+
+I am actively seeking internships or jobs in the technology, natural resource, and energy field. I firmly believe that with my skills, dedication, and my burning spirit for learning, I can make a meaningful contributions to the engineering field.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
@@ -25,19 +29,19 @@ profile_image: ./assets/images/profile-image/avatar.jpeg
 
 # Link your resume
 # You can place your resume in assets/resume/{resume.pdf or add external link such as pdf saved in google drive 
-resume-url: https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/view?usp=sharing # or /assets/resume/resume.pdf
+resume-url: https://drive.google.com/file/d/1Krp9rlsIxR63ejOue9HjrgEAJ83tIfE9/view?usp=sharing # or /assets/resume/resume.pdf
 
 
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: test    # https://www.linkedin.com/in/{your url slug} 
-  github: leea12    # https://github.com/{your url slug} 
-  stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
+  linkedin: https://www.linkedin.com/in/achinguyen314/   # https://www.linkedin.com/in/{your url slug} 
+  github: https://github.com/AchiNguyen  # https://github.com/{your url slug} 
+  stackoverflow:      # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
   threads:            # https://threads.net/@{your url slug} 
-  instragram:       # https://instagram.com/{your url slug} 
+  instragram: https://www.instagram.com/achi.weng/       # https://instagram.com/{your url slug} 
   youtube:           # https://youtube.com/@{your url slug} 
   discord:            # https://discord.com/users/{your url slug} 
   bluesky:           # https://bsky.app/profile/{your url slug} 
@@ -49,35 +53,16 @@ skills:
     tools:
     - Onshape
     - Solidworks
-    - Creo
     - Fusion 360 (Autodesk)
-    - Blender (for complex shapes or animations)
-    - Siemens NX
-    - Inventor (Autodesk)
-    - CATIA (Dassault Systèmes)
   - category: Prototyping
     tools:
-    - SLA
-    - CNC
-    - FDM
-    - SLS
-    - DMLS
-    - PolyJet Printing
-    - Vacuum Casting
     - Laser Cutting
     - Water Jet Cutting
-    - Arduino / Raspberry Pi
-    - Breadboarding for circuit testing
-  - category: Design Standards / Practices
-    tools:
-    - GD&T ASME Y14
-    - ISO fits and tolerances
-    - PLM (PTC Windchill / Arena)   
+    - Arduino
+    - Breadboarding for circuit testing 
   - category: PCB Design
     tools:
     - Altium Designer
-    - Altium
-    - Eagle 
     - KiCad
   - category: Problem Solving / Risk Management
     tools:
